@@ -1,0 +1,358 @@
+I need to request a wake-up call for tomorrow morning.
+
+What time do you want the call?
+
+
+I need two calls, one at 7 and another at 7:15.
+
+We can certainly do that. Expect a call from us at 7:00, and then again at 7:15.
+
+
+Actually, can I change the latter wake-up call to 7:30 am?
+
+I can certainly do that. Is there anything else?
+
+
+I can't think of anything. If I do think of something, I'll be sure to call again.
+
+Okay. Good night, sir.
+
+
+I need a wake-up call tomorrow morning.
+
+Of course. When would you like the call?
+
+
+Actually, I need two calls, one at 7 and the other at 7:15.
+
+No problem. We'll give you both calls.
+
+
+This bus goes all the way to Santa Anita mall, right?
+
+Yes, it'll take us there.
+
+
+Are you positive?
+
+I always catch this bus.
+
+
+How long is this bus ride?
+
+It only takes half an hour.
+
+
+Where do we get off at?
+
+We can get off the bus right behind Macy's.
+
+
+There's a stop right next to the mall?
+
+Yeah, it's right in the parking lot.
+
+
+That's cool.
+
+Yes, I know.
+
+
+Does this bus really go to the mall?
+
+It goes all the way there.
+
+
+Are you sure?
+
+I know it does. I catch this bus a lot.
+
+
+How long does it take for the bus to get there?
+
+The bus ride is only thirty minutes or so.
+
+
+Where do we get off the bus?
+
+Right behind Macy's is a bus stop.
+
+
+The stop is really at the mall?
+
+It's in the middle of the parking lot.
+
+
+That's perfect.
+
+I know it is.
+
+
+Are you sure that this bus will take us to Santa Anita mall?
+
+Yes, it will.
+
+
+You know that for a fact?
+
+Yeah, I catch this bus all the time.
+
+
+Is it a very long bus ride?
+
+It's about thirty minutes long.
+
+
+Do you know where we get off at?
+
+There's a bus stop right behind Macy's.
+
+
+Really, there's a bus stop right by the mall?
+
+There's a bus stop in the mall parking lot.
+
+
+That's convenient.
+
+Absolutely.
+
+
+Do you know what, let's change the second call to 7:30.
+
+No problem. Anything else, sir?
+
+
+Not at the moment, thank you.
+
+Let me know if you do need anything.
+
+
+Can you give me a wake-up call tomorrow?
+
+Certainly. What time would you like us to call you?
+
+
+I need two wake-up calls, if you don't mind, one at 7 and the other at 7:15.
+
+Not a problem. We'll call you tomorrow morning at 7, and again at 7:15.
+
+
+On second thought, you'd better make that second call at 7:30 instead of 7:15.
+
+Said, and done. Will there be anything else?
+
+
+No, that gets it for now, thank you.
+
+Well, give us a call if there's anything more we can help you with.
+
+
+Tomorrow I'm going to need a wake-up call.
+
+Not a problem. What time shall we call you?
+
+
+I always hit the snooze button, so give me two calls, one at 7 and another at 7:15.
+
+It'll be our pleasure. We'll call you at 7 and then at 7:15.
+
+
+Oops, cancel that. Change the second call to 7:30, will you, please?
+
+No sooner said than done. Can I help you with anything else?
+
+
+No, that's about it for now.
+
+Okay, sir. Have a pleasant evening.
+
+
+I need a wake-up call tomorrow.
+
+What time would you like your wake-up call?
+
+
+I need two calls, one at 7 and another at 7:15.
+
+That is no problem at all, of course. You'll get a call at 7:00, and another at 7:15.
+
+
+Then again, I think 7:15 is too early. Change 7:15 to 7:30, please.
+
+So, that'll be a call at 7 and another at 7:30. Do you have any other requests?
+
+
+Not just now, but if I do think of something later, I'll give you a ring.
+
+Okay, sir. Sleep well.
+
+
+I've got to get up early tomorrow, so please give me a wake-up call.
+
+Of course. We can give you a call anytime you like.
+
+
+Actually, I need two calls, one at 7 and the other at 7:15.
+
+Your wish is our command. Expect a call at 7, and another one at 7:15.
+
+
+Wait a minute! I don't like 7:15, now that I think about it. Change it to 7:30.
+
+The second call is now changed to 7:30. Is there anything else we can help you with?
+
+
+Nothing that I can think of right now. If something comes up, though, I'll call you.
+
+We're here all night long if you need anything.
+
+
+I have a reservation. My name is John Sandals.
+
+May I see your ID, please, Mr. Sandals?
+
+
+Certainly. Here it is.
+
+Thank you. Do you have a credit card, Mr. Sandals?
+
+
+Yes, I do. Do you accept American Express?
+
+Sorry, sir, just VISA or MasterCard.
+
+
+Here's my VISA card.
+
+Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?
+
+
+Yes, it sounds like everything I expected.
+
+Here's your key, sir. If you need anything, just dial 0 on your room phone.
+
+
+I have a reservation under the name of Sandals.
+
+Could I see your ID, please, sir?
+
+
+Of course! Let me take it out of my wallet.
+
+Thank you, sir. Now, do you have a credit card, sir?
+
+
+Yes, of course. Is American Express okay?
+
+I'm sorry, sir. Only VISA or MasterCard.
+
+
+In that case, here's my VISA.
+
+Thank you. Your room number is 507, queen bed, nonsmoking. Is that agreeable to you, sir?
+
+
+Yes, I'm easy to please.
+
+Very good. Here is your room key, sir. If you need anything at all, please dial 0.
+
+
+My name is Sandals, I have a reservation.
+
+May I see your identification, please, sir?
+
+
+Here you are.
+
+Thanks. Do you have a credit card, sir?
+
+
+Of course. Will American Express do?
+
+I'm very sorry, sir. We accept only VISA or MasterCard.
+
+
+No problem. Here's my VISA.
+
+Thanks. Room 507 is a spacious, nonsmoking room, with a queen bed. Does that meet your expectations?
+
+
+Yes, that sounds like what I want.
+
+That's wonderful, sir. Now, here's your key. Should you need anything, just dial 0.
+
+
+I'm John Sandals, and I have a reservation.
+
+Would you show me your ID, sir, please?
+
+
+Here you go.
+
+Thank you very much. Now, sir, do you have a credit card?
+
+
+Certainly! Would you like my American Express card?
+
+Regrettably, Mr. Sandals, we accept only MasterCard or VISA.
+
+
+I thought American Express was accepted everywhere. Never mind. Here's my VISA.
+
+Thanks. You're in room 507, a big, nonsmoking room, with a queen bed. Is that okay, sir?
+
+
+Yes, that's just fine.
+
+I'm happy to hear that. Here is your key. Just dial 0 if you need anything.
+
+
+My name is John Sandals, and I've got a reservation.
+
+May I see some identification, sir, please?
+
+
+Sure. Here you are.
+
+Thank you so much. Have you got a credit card, Mr. Sandals?
+
+
+I sure do. How about American Express?
+
+Unfortunately, at the present time we take only MasterCard or VISA.
+
+
+No American Express? Okay, here's my VISA.
+
+Thank you, sir. You'll be in room 507, nonsmoking, with a queen-size bed. Do you approve, sir?
+
+
+Yes, that'll be fine.
+
+That's great. This is your key, sir. If you need anything at all, anytime, just dial zero.
+
+
+I've got a reservation here. My name is John Sandals.
+
+Mr. Sandals, may I see your ID, please?
+
+
+One second, please, while I dig it out here.
+
+Now, sir, do you have a credit card?
+
+
+Yes, I do. Do you accept American Express?
+
+I'm sorry, Mr. Sandals, but we accept only MasterCard or VISA.
+
+
+That's okay, I've got plenty of cards. Here's my VISA.
+
+Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?
+
+
+Yes, that's just what I wanted.
+
+Here's your key, sir. If you need anything, just dial 0 on your room phone.
