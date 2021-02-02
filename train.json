@@ -1,0 +1,290 @@
+[{
+    "question": "I need to request a wake-up call for tomorrow morning.",
+    "answer": "What time do you want the call?"
+  },
+  {
+    "question": "I need two calls, one at 7 and another at 7:15.",
+    "answer": "We can certainly do that. Expect a call from us at 7:00, and then again at 7:15."
+  },
+  {
+    "question": "Actually, can I change the latter wake-up call to 7:30 am?",
+    "answer": "I can certainly do that. Is there anything else?"
+  },
+  {
+    "question": "I can't think of anything. If I do think of something, I'll be sure to call again.",
+    "answer": "Okay. Good night, sir."
+  },
+  {
+    "question": "I need a wake-up call tomorrow morning.",
+    "answer": "Of course. When would you like the call?"
+  },
+
+  {
+    "question": "Actually, I need two calls, one at 7 and the other at 7:15.",
+    "answer": "No problem. We'll give you both calls."
+  },
+  {
+    "question": "This bus goes all the way to Santa Anita mall, right?",
+    "answer": "Yes, it'll take us there."
+  },
+  {
+    "question": "Are you positive?",
+    "answer": "I always catch this bus."
+  },
+  {
+    "question": "How long is this bus ride?",
+    "answer": "It only takes half an hour."
+  },
+  {
+    "question": "Where do we get off at?",
+    "answer": "We can get off the bus right behind Macy's."
+  },
+  {
+    "question": "There's a stop right next to the mall?",
+    "answer": "Yeah, it's right in the parking lot."
+  },
+  {
+    "question": "That's cool.",
+    "answer": "Yes, I know."
+  },
+  {
+    "question": "Does this bus really go to the mall?",
+    "answer": "It goes all the way there."
+  },
+  {
+    "question": "Are you sure?",
+    "answer": "I know it does. I catch this bus a lot."
+  },
+  {
+    "question": "How long does it take for the bus to get there?",
+    "answer": "The bus ride is only thirty minutes or so."
+  },
+  {
+    "question": "Where do we get off the bus?",
+    "answer": "Right behind Macy's is a bus stop."
+  },
+  {
+    "question": "The stop is really at the mall?",
+    "answer": "It's in the middle of the parking lot."
+  },
+  {
+    "question": "That's perfect.",
+    "answer": "I know it is."
+  },
+  {
+    "question": "Are you sure that this bus will take us to Santa Anita mall?",
+    "answer": "Yes, it will."
+  },
+  {
+    "question": "You know that for a fact?",
+    "answer": "Yeah, I catch this bus all the time."
+  },
+  {
+    "question": "Is it a very long bus ride?",
+    "answer": "It's about thirty minutes long."
+  },
+  {
+    "question": "Do you know where we get off at?",
+    "answer": "There's a bus stop right behind Macy's."
+  },
+  {
+    "question": "Really, there's a bus stop right by the mall?",
+    "answer": "There's a bus stop in the mall parking lot."
+  },
+  {
+    "question": "That's convenient.",
+    "answer": "Absolutely."
+  },
+  {
+    "question": "Do you know what, let's change the second call to 7:30.",
+    "answer": "No problem. Anything else, sir?"
+  },
+  {
+    "question": "Not at the moment, thank you.",
+    "answer": "Let me know if you do need anything."
+  },
+  {
+    "question": "Can you give me a wake-up call tomorrow?",
+    "answer": "Certainly. What time would you like us to call you?"
+  },
+  {
+    "question": "I need two wake-up calls, if you don't mind, one at 7 and the other at 7:15.",
+    "answer": "Not a problem. We'll call you tomorrow morning at 7, and again at 7:15."
+  },
+  {
+    "question": "On second thought, you'd better make that second call at 7:30 instead of 7:15.",
+    "answer": "Said, and done. Will there be anything else?"
+  },
+  {
+    "question": "No, that gets it for now, thank you.",
+    "answer": "Well, give us a call if there's anything more we can help you with."
+  },
+  {
+    "question": "Tomorrow I'm going to need a wake-up call.",
+    "answer": "Not a problem. What time shall we call you?"
+  },
+  {
+    "question": "I always hit the snooze button, so give me two calls, one at 7 and another at 7:15.",
+    "answer": "It'll be our pleasure. We'll call you at 7 and then at 7:15."
+  },
+  {
+    "question": "Oops, cancel that. Change the second call to 7:30, will you, please?",
+    "answer": "No sooner said than done. Can I help you with anything else?"
+  },
+  {
+    "question": "No, that's about it for now.",
+    "answer": "Okay, sir. Have a pleasant evening."
+  },
+  {
+    "question": "I need a wake-up call tomorrow.",
+    "answer": "What time would you like your wake-up call?"
+  },
+  {
+    "question": "I need two calls, one at 7 and another at 7:15.",
+    "answer": "That is no problem at all, of course. You'll get a call at 7:00, and another at 7:15."
+  },
+  {
+    "question": "Then again, I think 7:15 is too early. Change 7:15 to 7:30, please.",
+    "answer": "So, that'll be a call at 7 and another at 7:30. Do you have any other requests?"
+  },
+  {
+    "question": "Not just now, but if I do think of something later, I'll give you a ring.",
+    "answer": "Okay, sir. Sleep well."
+  },
+  {
+    "question": "I've got to get up early tomorrow, so please give me a wake-up call.",
+    "answer": "Of course. We can give you a call anytime you like."
+  },
+  {
+    "question": "Actually, I need two calls, one at 7 and the other at 7:15.",
+    "answer": "Your wish is our command. Expect a call at 7, and another one at 7:15."
+  },
+  {
+    "question": "Wait a minute! I don't like 7:15, now that I think about it. Change it to 7:30.",
+    "answer": "The second call is now changed to 7:30. Is there anything else we can help you with?"
+  },
+  {
+    "question": "Nothing that I can think of right now. If something comes up, though, I'll call you.",
+    "answer": "We're here all night long if you need anything."
+  },
+  {
+    "question": "I have a reservation. My name is John Sandals.",
+    "answer": "May I see your ID, please, Mr. Sandals?"
+  },
+  {
+    "question": "Certainly. Here it is.",
+    "answer": "Thank you. Do you have a credit card, Mr. Sandals?"
+  },
+  {
+    "question": "Yes, I do. Do you accept American Express?",
+    "answer": "Sorry, sir, just VISA or MasterCard."
+  },
+  {
+    "question": "Here's my VISA card.",
+    "answer": "Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?"
+  },
+  {
+    "question": "Yes, it sounds like everything I expected.",
+    "answer": "Here's your key, sir. If you need anything, just dial 0 on your room phone."
+  },
+  {
+    "question": "I have a reservation under the name of Sandals.",
+    "answer": "Could I see your ID, please, sir?"
+  },
+  {
+    "question": "Of course! Let me take it out of my wallet.",
+    "answer": "Thank you, sir. Now, do you have a credit card, sir?"
+  },
+  {
+    "question": "Yes, of course. Is American Express okay?",
+    "answer": "I'm sorry, sir. Only VISA or MasterCard."
+  },
+  {
+    "question": "In that case, here's my VISA.",
+    "answer": "Thank you. Your room number is 507, queen bed, nonsmoking. Is that agreeable to you, sir?"
+  },
+  {
+    "question": "Yes, I'm easy to please.",
+    "answer": "Very good. Here is your room key, sir. If you need anything at all, please dial 0."
+  },
+  {
+    "question": "My name is Sandals, I have a reservation.",
+    "answer": "May I see your identification, please, sir?"
+  },
+  {
+    "question": "Here you are.",
+    "answer": "Thanks. Do you have a credit card, sir?"
+  },
+  {
+    "question": "Of course. Will American Express do?",
+    "answer": "I'm very sorry, sir. We accept only VISA or MasterCard."
+  },
+  {
+    "question": "No problem. Here's my VISA.",
+    "answer": "Thanks. Room 507 is a spacious, nonsmoking room, with a queen bed. Does that meet your expectations?"
+  },
+  {
+    "question": "Yes, that sounds like what I want.",
+    "answer": "That's wonderful, sir. Now, here's your key. Should you need anything, just dial 0."
+  },
+  {
+    "question": "I'm John Sandals, and I have a reservation.",
+    "answer": "Would you show me your ID, sir, please?"
+  },
+  {
+    "question": "Here you go.",
+    "answer": "Thank you very much. Now, sir, do you have a credit card?"
+  },
+  {
+    "question": "Certainly! Would you like my American Express card?",
+    "answer": "Regrettably, Mr. Sandals, we accept only MasterCard or VISA."
+  },
+  {
+    "question": "I thought American Express was accepted everywhere. Never mind. Here's my VISA.",
+    "answer": "Thanks. You're in room 507, a big, nonsmoking room, with a queen bed. Is that okay, sir?"
+  },
+  {
+    "question": "Yes, that's just fine.",
+    "answer": "I'm happy to hear that. Here is your key. Just dial 0 if you need anything."
+  },
+  {
+    "question": "My name is John Sandals, and I've got a reservation.",
+    "answer": "May I see some identification, sir, please?"
+  },
+  {
+    "question": "Sure. Here you are.",
+    "answer": "Thank you so much. Have you got a credit card, Mr. Sandals?"
+  },
+  {
+    "question": "I sure do. How about American Express?",
+    "answer": "Unfortunately, at the present time we take only MasterCard or VISA."
+  },
+  {
+    "question": "No American Express? Okay, here's my VISA.",
+    "answer": "Thank you, sir. You'll be in room 507, nonsmoking, with a queen-size bed. Do you approve, sir?"
+  },
+  {
+    "question": "Yes, that'll be fine.",
+    "answer": "That's great. This is your key, sir. If you need anything at all, anytime, just dial zero."
+  },
+  {
+    "question": "I've got a reservation here. My name is John Sandals.",
+    "answer": "Mr. Sandals, may I see your ID, please?"
+  },
+  {
+    "question": "One second, please, while I dig it out here.",
+    "answer": "Now, sir, do you have a credit card?"
+  },
+  {
+    "question": "Yes, I do. Do you accept American Express?",
+    "answer": "I'm sorry, Mr. Sandals, but we accept only MasterCard or VISA."
+  },
+  {
+    "question": "That's okay, I've got plenty of cards. Here's my VISA.",
+    "answer": "Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?"
+  },
+  {
+    "question": "Yes, that's just what I wanted.",
+    "answer": "Here's your key, sir. If you need anything, just dial 0 on your room phone."
+  }
+]

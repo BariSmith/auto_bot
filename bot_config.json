@@ -1,0 +1,28 @@
+{
+  "intents": {
+      "hello": {
+          "examples": ["Hello", "Good day", "Hey", "Wazzap", "Yo"],
+          "responses": ["Hello", "Welcome"]
+              },
+      "brands": {
+          "examples": ["Brands", "Can you shaw me available vehicle brands, please?", "available vehicle brands"],
+          "responses": ["Tesla, Nissan, NIO", "Tesla, NIO, Nissan"]
+              },
+      "cruise_range": {
+          "examples": ["range", "cruise range", "Can you show me cars with the maximum cruising range"],
+          "responses": ["Sure. That is Tesla Model S (640 km), NIO ec6 (615 km), NIO es6 (610 km)", "Tesla Model S (640 km), NIO ec6 (615 km), NIO es6 (610 km)"]
+              },
+
+      "bye": {
+          "examples": ["Bye", "Have a nice day", "Good bye"],
+          "responses": ["If you need me  I will be here", "See you", "Bye", "Have a nice day", "Good bye" ]
+      }
+  },
+
+  "failure_phrases": [
+      "Please write it in another way",
+      "Something is wrong",
+      "I do not understand. Rephrase your request, please",
+      "The list of my answers is limited. Ask the question in another way"
+  ]
+}
